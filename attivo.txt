@@ -13,3 +13,4 @@ ZwProtectVirtualMemory is hooked
 ZwReadVirtualMemory is hooked
 ZwTerminateProcess is hooked
 ZwWriteVirtualMemory is hooked
+1
